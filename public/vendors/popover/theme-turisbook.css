@@ -1,0 +1,189 @@
+/*
+* Theme_turisbook_blue
+* */
+.fu_popover_Theme_turisbook_blue {
+   position: absolute;
+   background: #CFE6FF;
+   z-index: 1060;
+   -webkit-background-clip: padding-box;
+   background-clip: padding-box;
+   border: 1px solid #2E6096;
+   border-radius: 8px;
+   -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+.fu_popover_header_Theme_turisbook_blue{
+   margin: 0;
+   padding: 8px 14px;
+   font-size: 18px;
+   font-weight: 700;
+   text-align: center;
+   color:#FFFFFF;
+   background-color: #2E6096;
+   border-bottom: 1px solid #2E6096;
+   border-radius: 8px 8px 0 0;
+}
+.fu_popover_content_Theme_turisbook_blue{
+   padding: 9px 14px;
+}
+.fu_popover_Theme_turisbook_blue:after, .fu_popover_Theme_turisbook_blue:before {
+   border: solid transparent;
+   content: " ";
+   height: 0;
+   width: 0;
+   position: absolute;
+   pointer-events: none;
+}
+.fu_popover_Theme_turisbook_blue:after {
+   border-color: rgba(255, 255, 255, 0);
+   border-width: 10px;
+}
+.fu_popover_Theme_turisbook_blue:before {
+   border-color: rgba(0, 0, 0, 0);
+   border-width: 11px;
+}
+.arrow_top_Theme_turisbook_blue:after{
+   left: 50%;
+   bottom: 100%;
+   border-bottom-color: #CFE6FF;
+   margin-left: -10px;
+}
+.arrow_top_Theme_turisbook_blue:before{
+   left: 50%;
+   bottom: 100%;
+   border-bottom-color: #2E6096;
+   margin-left: -11px;
+}
+.arrow_bottom_Theme_turisbook_blue:after{
+   left: 50%;
+   top: 100%;
+   border-top-color: #CFE6FF;
+   margin-left: -10px;
+}
+.arrow_bottom_Theme_turisbook_blue:before{
+   left: 50%;
+   top: 100%;
+   border-top-color: #2E6096;
+   margin-left: -11px;
+}
+.arrow_left_Theme_turisbook_blue:after{
+   right: 100%;
+   top: 50%;
+   border-right-color: #CFE6FF;
+   margin-top: -10px;
+}
+.arrow_left_Theme_turisbook_blue:before{
+   right: 100%;
+   top: 50%;
+   border-right-color: #2E6096;
+   margin-top: -11px;
+}
+.arrow_right_Theme_turisbook_blue:after{
+   left: 100%;
+   top: 50%;
+   border-left-color: #CFE6FF;
+   margin-top: -10px;
+}
+.arrow_right_Theme_turisbook_blue:before{
+   left: 100%;
+   top: 50%;
+   border-left-color: #2E6096;
+   margin-top: -11px;
+}
+
+
+
+/*
+* Theme_turisbook_green
+* */
+
+.fu_popover_Theme_turisbook_green {
+   position: absolute;
+   background: #DBFFE0;
+   z-index: 1060;
+   -webkit-background-clip: padding-box;
+   background-clip: padding-box;
+   border: 1px solid #61CE70;
+   border-radius: 8px;
+   -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+.fu_popover_header_Theme_turisbook_green{
+   margin: 0;
+   padding: 8px 14px;
+   font-size: 18px;
+   font-weight: 700;
+   text-align: center;
+   color:#FFFFFF;
+   background-color: #61CE70;
+   border-bottom: 1px solid #61CE70;
+   border-radius: 8px 8px 0 0;
+}
+.fu_popover_content_Theme_turisbook_green{
+   padding: 9px 14px;
+   font-size: 13px!important;
+}
+.fu_popover_Theme_turisbook_green:after, .fu_popover_Theme_turisbook_green:before {
+   border: solid transparent;
+   content: " ";
+   height: 0;
+   width: 0;
+   position: absolute;
+   pointer-events: none;
+}
+.fu_popover_Theme_turisbook_green:after {
+   border-color: rgba(255, 255, 255, 0);
+   border-width: 10px;
+}
+.fu_popover_Theme_turisbook_green:before {
+   border-color: rgba(0, 0, 0, 0);
+   border-width: 11px;
+}
+.arrow_top_Theme_turisbook_green:after{
+   left: 50%;
+   bottom: 100%;
+   border-bottom-color: #DBFFE0;
+   margin-left: -10px;
+}
+.arrow_top_Theme_turisbook_green:before{
+   left: 50%;
+   bottom: 100%;
+   border-bottom-color: #61CE70;
+   margin-left: -11px;
+}
+.arrow_bottom_Theme_turisbook_green:after{
+   left: 50%;
+   top: 100%;
+   border-top-color: #DBFFE0;
+   margin-left: -10px;
+}
+.arrow_bottom_Theme_turisbook_green:before{
+   left: 50%;
+   top: 100%;
+   border-top-color: #61CE70;
+   margin-left: -11px;
+}
+.arrow_left_Theme_turisbook_green:after{
+   right: 100%;
+   top: 50%;
+   border-right-color: #DBFFE0;
+   margin-top: -10px;
+}
+.arrow_left_Theme_turisbook_green:before{
+   right: 100%;
+   top: 50%;
+   border-right-color: #61CE70;
+   margin-top: -11px;
+}
+.arrow_right_Theme_turisbook_green:after{
+   left: 100%;
+   top: 50%;
+   border-left-color: #DBFFE0;
+   margin-top: -10px;
+}
+.arrow_right_Theme_turisbook_green:before{
+   left: 100%;
+   top: 50%;
+   border-left-color: #61CE70;
+   margin-top: -11px;
+}

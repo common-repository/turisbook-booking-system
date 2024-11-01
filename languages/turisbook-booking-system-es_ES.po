@@ -1,0 +1,932 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Turisbook Booking System\n"
+"POT-Creation-Date: 2024-03-06 12:12+0000\n"
+"PO-Revision-Date: 2024-03-06 12:13+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: turisbook-booking-system.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:5
+msgid "Pre-Book page"
+msgstr "Página de reserva anticipada"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:19
+msgid "Confirmation page"
+msgstr "Página de confirmación"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:33
+msgid "Availability Search page"
+msgstr "Página de búsqueda de disponibilidad"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:47
+msgid "Menu Apt"
+msgstr "Menú Apto"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:50
+msgid "Hide"
+msgstr "Ocultar"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:51
+msgid "Show"
+msgstr "Mostrar"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:56
+msgid "Cart Position"
+msgstr "Posición del carro"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:62
+msgid "Cart background color"
+msgstr "Color de fondo del carrito"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:69
+msgid "Use Analytics Goal for booking?"
+msgstr "¿Utilizar Analytics Goal para reservar?"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:72
+msgid "No"
+msgstr "No"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:73
+msgid "Yes"
+msgstr "Sí"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:78
+msgid "Sync data from Turisbook.com"
+msgstr "Sincronizar datos de Turisbook.com"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:79
+msgid "Sync"
+msgstr "Sincronizar"
+
+#: admin/partials/turisbook-booking-system-admin-config.php:83
+msgid "Save"
+msgstr "Guardar"
+
+#. Plugin Name of the plugin/theme
+#: admin/partials/turisbook-booking-system-admin-display.php:24
+msgid "Turisbook Booking System"
+msgstr "Sistema de reservas Turisbook"
+
+#: admin/partials/turisbook-booking-system-admin-display.php:31
+msgid "Configurations"
+msgstr "Configuraciones"
+
+#: admin/partials/turisbook-booking-system-admin-display.php:32
+msgid "Connection"
+msgstr "Conexión"
+
+#: admin/partials/turisbook-booking-system-admin-loggedin.php:10
+#: includes/post_types/turisbook-establishments-post-type.php:6
+msgid "Establishment"
+msgstr "Establecimiento"
+
+#: admin/partials/turisbook-booking-system-admin-login.php:4
+msgid "Please login"
+msgstr "Inicie sesión"
+
+#: admin/partials/turisbook-booking-system-admin-login.php:9
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: admin/partials/turisbook-booking-system-admin-select-establishment.php:4
+msgid "Please select establishment"
+msgstr "Por favor, seleccione el establecimiento"
+
+#: admin/partials/turisbook-booking-system-admin-select-establishment.php:18
+msgid "Lock"
+msgstr "Bloquear"
+
+#: includes/class-turisbook-booking-system.php:240
+msgid "January"
+msgstr "Enero"
+
+#: includes/class-turisbook-booking-system.php:240
+msgid "February"
+msgstr "Febrero"
+
+#: includes/class-turisbook-booking-system.php:240
+msgid "March"
+msgstr "Marzo"
+
+#: includes/class-turisbook-booking-system.php:240
+msgid "April"
+msgstr "Abril"
+
+#: includes/class-turisbook-booking-system.php:240
+msgid "May"
+msgstr "Mayo"
+
+#: includes/class-turisbook-booking-system.php:240
+msgid "June"
+msgstr "Junio"
+
+#: includes/class-turisbook-booking-system.php:240
+msgid "July"
+msgstr "Julio"
+
+#: includes/class-turisbook-booking-system.php:240
+msgid "August"
+msgstr "Agosto"
+
+#: includes/class-turisbook-booking-system.php:240
+msgid "September"
+msgstr "Septiembre"
+
+#: includes/class-turisbook-booking-system.php:240
+msgid "October"
+msgstr "Octubre"
+
+#: includes/class-turisbook-booking-system.php:240
+msgid "November"
+msgstr "Noviembre"
+
+#: includes/class-turisbook-booking-system.php:240
+msgid "December"
+msgstr "Diciembre"
+
+#: includes/metaboxes/turisbook-room-gallery.php:21
+msgid "Image Gallery"
+msgstr "Galería de imágenes"
+
+#: includes/metaboxes/turisbook-room-gallery.php:285
+msgid "Post Gallery"
+msgstr "Galería de Publicaciones"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:21
+msgid "Turisbook values"
+msgstr "Valores de Turisbook"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:32
+msgid "Rnal"
+msgstr "Rnal"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:33
+#: public/partials/turisbook-booking-system-ratecategories.php:47
+#: public/partials/turisbook-booking-system-resume-body.php:19
+msgid "Adults"
+msgstr "Adultos"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:34
+msgid "Capacity"
+msgstr "Capacidad"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:35
+#: public/partials/turisbook-booking-system-resume-body.php:19
+msgid "Extrabed Children"
+msgstr "Niños con cama extramatrimonial"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:36
+msgid "Extrabed Adults"
+msgstr "Extracama Adultos"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:37
+msgid "Max Extrabeds"
+msgstr "Máximo de camas supletorias"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:38
+msgid "Lotation Base"
+msgstr "Base de lotación"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:39
+#: includes/post_types/turisbook-rooms-post-type.php:7
+#: public/class-turisbook-booking-system-public.php:145
+msgid "Rooms"
+msgstr "Habitaciones"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:40
+#: public/partials/turisbook-booking-system-grid.php:24
+msgid "Bathrooms"
+msgstr "Baños"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:41
+#: public/partials/turisbook-booking-system-grid.php:31
+msgid "Sleeps"
+msgstr "Dormidas"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:42
+msgid "Latitude"
+msgstr "Latitud"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:43
+msgid "Longitude"
+msgstr "Longitud"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:44
+msgid "Location"
+msgstr "Localización"
+
+#: includes/metaboxes/turisbook-room-metaboxes.php:45
+msgid "Location ID"
+msgstr "ID. de ubicación"
+
+#: includes/post_types/turisbook-establishments-post-type.php:7
+msgid "Establishments"
+msgstr "Establecimientos"
+
+#: includes/post_types/turisbook-establishments-post-type.php:19
+#: includes/post_types/turisbook-rooms-post-type.php:28
+msgid "Item Attributes"
+msgstr "Atributos de elemento"
+
+#: includes/post_types/turisbook-establishments-post-type.php:20
+#: includes/post_types/turisbook-rooms-post-type.php:29
+msgid "Parent Item:"
+msgstr "Item padre:"
+
+#: includes/post_types/turisbook-establishments-post-type.php:21
+#: includes/post_types/turisbook-rooms-post-type.php:30
+msgid "All Items"
+msgstr "Todos los elementos"
+
+#: includes/post_types/turisbook-establishments-post-type.php:22
+#: includes/post_types/turisbook-rooms-post-type.php:31
+msgid "Add New Item"
+msgstr "Añadir nuevo elemento"
+
+#: includes/post_types/turisbook-establishments-post-type.php:23
+#: includes/post_types/turisbook-rooms-post-type.php:32
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: includes/post_types/turisbook-establishments-post-type.php:24
+#: includes/post_types/turisbook-rooms-post-type.php:33
+msgid "New Item"
+msgstr "Nuevo elemento"
+
+#: includes/post_types/turisbook-establishments-post-type.php:25
+#: includes/post_types/turisbook-rooms-post-type.php:34
+msgid "Edit Item"
+msgstr "Editar elemento"
+
+#: includes/post_types/turisbook-establishments-post-type.php:26
+#: includes/post_types/turisbook-rooms-post-type.php:35
+msgid "Update Item"
+msgstr "Actualizar elemento"
+
+#: includes/post_types/turisbook-establishments-post-type.php:27
+#: includes/post_types/turisbook-rooms-post-type.php:36
+msgid "View Item"
+msgstr "Ver elemento"
+
+#: includes/post_types/turisbook-establishments-post-type.php:28
+#: includes/post_types/turisbook-rooms-post-type.php:37
+msgid "View Items"
+msgstr "Ver Items"
+
+#: includes/post_types/turisbook-establishments-post-type.php:29
+#: includes/post_types/turisbook-rooms-post-type.php:38
+msgid "Search Item"
+msgstr "Buscar artículo"
+
+#: includes/post_types/turisbook-establishments-post-type.php:30
+#: includes/post_types/turisbook-rooms-post-type.php:39
+msgid "Not found"
+msgstr "No encontrado"
+
+#: includes/post_types/turisbook-establishments-post-type.php:31
+#: includes/post_types/turisbook-rooms-post-type.php:40
+msgid "Not found in Trash"
+msgstr "No encontrado en la papelera"
+
+#: includes/post_types/turisbook-establishments-post-type.php:32
+#: includes/post_types/turisbook-rooms-post-type.php:41
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: includes/post_types/turisbook-establishments-post-type.php:33
+#: includes/post_types/turisbook-rooms-post-type.php:42
+msgid "Set featured image"
+msgstr "Establecer imagen destacada"
+
+#: includes/post_types/turisbook-establishments-post-type.php:34
+#: includes/post_types/turisbook-rooms-post-type.php:43
+msgid "Remove featured image"
+msgstr "Eliminar la imagen destacada"
+
+#: includes/post_types/turisbook-establishments-post-type.php:35
+#: includes/post_types/turisbook-rooms-post-type.php:44
+msgid "Use as featured image"
+msgstr "Usar como imagen destacada"
+
+#: includes/post_types/turisbook-establishments-post-type.php:36
+#: includes/post_types/turisbook-rooms-post-type.php:45
+msgid "Insert into item"
+msgstr "Insertar en el elemento"
+
+#: includes/post_types/turisbook-establishments-post-type.php:37
+#: includes/post_types/turisbook-rooms-post-type.php:46
+msgid "Uploaded to this item"
+msgstr "Subido a este elemento"
+
+#: includes/post_types/turisbook-establishments-post-type.php:38
+#: includes/post_types/turisbook-rooms-post-type.php:47
+msgid "Items list"
+msgstr "Lista de elementos"
+
+#: includes/post_types/turisbook-establishments-post-type.php:39
+#: includes/post_types/turisbook-rooms-post-type.php:48
+msgid "Items list navigation"
+msgstr "Navegación de lista de elementos"
+
+#: includes/post_types/turisbook-establishments-post-type.php:40
+#: includes/post_types/turisbook-rooms-post-type.php:49
+msgid "Filter items list"
+msgstr "Filtrar lista de elementos"
+
+#: includes/post_types/turisbook-establishments-post-type.php:50
+#: includes/post_types/turisbook-rooms-post-type.php:59
+msgid "Post Type Description"
+msgstr "Descripción del Post"
+
+#: includes/post_types/turisbook-rooms-post-type.php:7
+#: public/class-turisbook-booking-system-public.php:145
+msgid "Room"
+msgstr "Habitación"
+
+#: includes/post_types/turisbook-rooms-post-type.php:8
+#: public/class-turisbook-booking-system-public.php:146
+msgid "Apartment"
+msgstr "Apartamento"
+
+#: includes/post_types/turisbook-rooms-post-type.php:8
+#: public/class-turisbook-booking-system-public.php:146
+msgid "Apartments"
+msgstr "Apartamentos"
+
+#: includes/post_types/turisbook-rooms-post-type.php:9
+#: public/class-turisbook-booking-system-public.php:147
+msgid "Hostel"
+msgstr "Hostal"
+
+#: includes/post_types/turisbook-rooms-post-type.php:9
+#: public/class-turisbook-booking-system-public.php:147
+msgid "Hostels"
+msgstr "Hostales"
+
+#: includes/post_types/turisbook-rooms-post-type.php:10
+msgid "Property"
+msgstr "Propiedad"
+
+#: includes/post_types/turisbook-rooms-post-type.php:10
+msgid "Properties"
+msgstr "Propiedades"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:9
+msgctxt "taxonomy general name"
+msgid "Amenities"
+msgstr "Comodidades"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:10
+msgctxt "taxonomy singular name"
+msgid "Amenity"
+msgstr "Comodidad"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:11
+msgid "Search Amenities"
+msgstr "Buscar Comodidades"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:12
+msgid "Popular Amenities"
+msgstr "Comodidades populares"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:13
+msgid "All Amenities"
+msgstr "Todas las Comodidades"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:16
+msgid "Edit Amenities"
+msgstr "Editar comodidades"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:17
+msgid "Update Amenities"
+msgstr "Actualizar comodidades"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:18
+msgid "Add New Amenity"
+msgstr "Añadir Nueva Comodidad"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:19
+msgid "New Topic Name"
+msgstr "Nuevo nombre de tema"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:20
+msgid "Separate Amenities with commas"
+msgstr "Amenidades separadas con comas"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:21
+msgid "Add or remove Amenities"
+msgstr "Agregar o quitar servicios"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:22
+msgid "Choose from the most used Amenities"
+msgstr "Elige entre los servicios más utilizados"
+
+#: includes/taxonomies/turisbook-room-amenity-taxonomy.php:23
+#: public/partials/taxonomy-turisbook_amenity.php:56
+msgid "Amenities"
+msgstr "Comodidades"
+
+#: includes/turisbook-booking-system-cron.php:11
+msgid "Every 30 Minutes"
+msgstr "Cada 30 minutos"
+
+#: public/class-turisbook-booking-system-public.php:148
+msgid "Villa"
+msgstr "Villa"
+
+#: public/class-turisbook-booking-system-public.php:148
+msgid "Villas"
+msgstr "Villas"
+
+#: public/class-turisbook-booking-system-public.php:163
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: public/partials/archive-turisbook_room_single.php:27
+msgid "Max lotation"
+msgstr "Lotación máxima"
+
+#: public/partials/archive-turisbook_room_single.php:34
+msgid "More details"
+msgstr "Más detalles"
+
+#: public/partials/payments/turisbook-booking-system-cc.php:4
+msgid "Credit Card"
+msgstr "Tarjeta de crédito"
+
+#: public/partials/payments/turisbook-booking-system-cc.php:14
+msgid "Card Number"
+msgstr "Número de tarjeta"
+
+#: public/partials/payments/turisbook-booking-system-cc.php:21
+msgid "Cardholder Name"
+msgstr "Nombre de titular de tarjeta"
+
+#: public/partials/payments/turisbook-booking-system-cc.php:29
+msgid "CVV"
+msgstr "CVV"
+
+#: public/partials/payments/turisbook-booking-system-cc.php:35
+msgid "Validity"
+msgstr "Validez"
+
+#: public/partials/payments/turisbook-booking-system-wb.php:3
+msgid "Wire Bank"
+msgstr "Banco de alambre"
+
+#: public/partials/payments/turisbook-booking-system-wb.php:13
+msgid "Bank"
+msgstr "Banco"
+
+#: public/partials/payments/turisbook-booking-system-wb.php:14
+msgid "IBAN"
+msgstr "IBAN"
+
+#: public/partials/payments/turisbook-booking-system-wb.php:15
+msgid "SWIFT"
+msgstr "SWIFT"
+
+#: public/partials/single-turisbook_establishment.php:89
+#: public/shortcodes/turisbook-booking-system-availabilities-search.php:72
+msgid "There are no results for the chosen dates."
+msgstr "No hay resultados para las fechas elegidas."
+
+#: public/partials/single-turisbook_establishment.php:91
+#: public/shortcodes/turisbook-booking-system-availabilities-search.php:74
+msgid "Please choose new dates."
+msgstr "Por favor, elija nuevas fechas."
+
+#: public/partials/turisbook-booking-system-beds.php:1
+msgid "Bed Type"
+msgstr "Tipo de Espacio"
+
+#: public/partials/turisbook-booking-system-beds.php:3
+msgid "Twin"
+msgstr "Gemelo"
+
+#: public/partials/turisbook-booking-system-beds.php:4
+msgid "King Size"
+msgstr "King Size"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:7
+msgid "Booking nr."
+msgstr "Reserva nr."
+
+#: public/partials/turisbook-booking-system-cardex-info.php:9
+msgid ""
+"As regarding your reservation, please, as mandatory by the Portuguese law, "
+"please fill this guest registration form:"
+msgstr ""
+"En cuanto a su reserva, por favor, como es obligatorio por la ley "
+"portuguesa, rellene este formulario de registro de huéspedes:"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:18
+#: public/partials/turisbook-booking-system-form.php:4
+msgid "Personal Data"
+msgstr "Datos Personales"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:24
+msgid "Full Name"
+msgstr "Nombre completo"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:31
+msgid "Birthday Info"
+msgstr "Información de cumpleaños"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:35
+msgid "Birthday"
+msgstr "Cumpleaños"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:41
+msgid "Place of Birth"
+msgstr "Lugar de nacimiento"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:48
+msgid "Nationality"
+msgstr "Nacionalidad"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:50
+#: public/partials/turisbook-booking-system-cardex-info.php:75
+#: public/partials/turisbook-booking-system-cardex-info.php:115
+msgid "== Select =="
+msgstr "== Seleccionar =="
+
+#: public/partials/turisbook-booking-system-cardex-info.php:62
+msgid "Residence Info"
+msgstr "Información de la residencia"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:66
+#: public/partials/turisbook-booking-system-form.php:54
+msgid "City"
+msgstr "Ciudad"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:73
+#: public/partials/turisbook-booking-system-form.php:61
+msgid "Country"
+msgstr "País"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:86
+msgid "NIF"
+msgstr "NIF"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:93
+msgid "Identification Document"
+msgstr "Documento de Identificación"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:97
+msgid "Type"
+msgstr "Tipo"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:99
+msgid "Citizen Card"
+msgstr "Carné Ciudadano"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:100
+msgid "Passport"
+msgstr "Pasaporte"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:101
+msgid "Driving license"
+msgstr "Carnet de conducir"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:107
+msgid "Number"
+msgstr "Número"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:113
+msgid "Country issuer"
+msgstr "País emisor"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:129
+msgid "Refundable Damage Deposit"
+msgstr "Depósito reembolsable por daños"
+
+#: public/partials/turisbook-booking-system-cardex-info.php:130
+msgid "The amount will only be charged if any major damages are noticed."
+msgstr "El importe solo se cobrará si se observan daños importantes."
+
+#: public/partials/turisbook-booking-system-cardex-info.php:143
+#: public/partials/turisbook-booking-system-form.php:109
+msgid "Finish"
+msgstr "Terminar"
+
+#: public/partials/turisbook-booking-system-cardex-invalid.php:3
+msgid "The booking ID is not valid!"
+msgstr "¡El ID de reserva no es válido!"
+
+#: public/partials/turisbook-booking-system-cardex-thankyou.php:3
+msgid "Success!<br/>Thank you for submitting your information!"
+msgstr "¡Éxito!<br/>¡Gracias por enviar su información!"
+
+#: public/partials/turisbook-booking-system-cart.php:5
+msgid "Make your reservation!"
+msgstr "¡Haz tu reserva!"
+
+#: public/partials/turisbook-booking-system-cart.php:10
+#: public/partials/turisbook-booking-system-ratecategories.php:9
+msgid "nights"
+msgstr "noches"
+
+#: public/partials/turisbook-booking-system-cart.php:17
+#: public/partials/turisbook-booking-system-confirmation.php:127
+#: public/partials/turisbook-booking-system-resume-body-price.php:45
+msgid "Total"
+msgstr "Total"
+
+#: public/partials/turisbook-booking-system-cart.php:18
+msgid "Book Now"
+msgstr "Reservar Ahora"
+
+#: public/partials/turisbook-booking-system-cart.php:24
+msgid "Please select checkin and checkout dates"
+msgstr "Seleccione las fechas de entrada y salida"
+
+#: public/partials/turisbook-booking-system-cart.php:25
+msgid ""
+"No accomodation selected.<br/> Please select an accomodation from the "
+"dropdown menu"
+msgstr ""
+"No se ha seleccionado ningún alojamiento.<br/> Por favor, seleccione un "
+"alojamiento en el menú desplegable"
+
+#: public/partials/turisbook-booking-system-confirmation.php:7
+msgid "Thank you for your preference!"
+msgstr "¡Gracias por su preferencia!"
+
+#: public/partials/turisbook-booking-system-confirmation.php:8
+#, php-format
+msgid ""
+"Your reservation has been registered <br/> with the code <br/> <strong>%s</"
+"strong>"
+msgstr ""
+"Su reserva ha sido registrada <br/> con el código <br/> <strong>%s</strong>"
+
+#: public/partials/turisbook-booking-system-confirmation.php:14
+#: public/partials/turisbook-booking-system-resume.php:6
+msgid "Checkin"
+msgstr "Registro"
+
+#: public/partials/turisbook-booking-system-confirmation.php:20
+#: public/partials/turisbook-booking-system-resume.php:12
+msgid "Checkout"
+msgstr "Pagar"
+
+#: public/partials/turisbook-booking-system-confirmation.php:27
+#: public/partials/turisbook-booking-system-resume.php:19
+#, php-format
+msgid "%s night stay."
+msgstr "%s noche de estancia."
+
+#: public/partials/turisbook-booking-system-confirmation.php:62
+#: public/partials/turisbook-booking-system-form.php:134
+msgid "Adults: "
+msgstr "Adultos: "
+
+#: public/partials/turisbook-booking-system-confirmation.php:62
+#: public/partials/turisbook-booking-system-form.php:134
+msgid "Children: "
+msgstr "Niños: "
+
+#: public/partials/turisbook-booking-system-confirmation.php:66
+#: public/partials/turisbook-booking-system-resume-body.php:26
+msgid "Choose your bed "
+msgstr "Elige tu cama "
+
+#: public/partials/turisbook-booking-system-confirmation.php:66
+#: public/partials/turisbook-booking-system-resume-body.php:26
+msgid "if available"
+msgstr "si está disponible"
+
+#: public/partials/turisbook-booking-system-confirmation.php:68
+#: public/partials/turisbook-booking-system-resume-body.php:28
+msgid "individual beds"
+msgstr "camas individuales"
+
+#: public/partials/turisbook-booking-system-confirmation.php:69
+#: public/partials/turisbook-booking-system-resume-body.php:29
+msgid "extra large double bed"
+msgstr "cama doble extra grande"
+
+#: public/partials/turisbook-booking-system-confirmation.php:82
+#: public/partials/turisbook-booking-system-resume-body-price.php:2
+msgid "Price/night"
+msgstr "Precio/noche"
+
+#: public/partials/turisbook-booking-system-confirmation.php:87
+#: public/partials/turisbook-booking-system-resume-body-price.php:17
+msgid "Extrabeds"
+msgstr "Camas supletorias"
+
+#: public/partials/turisbook-booking-system-confirmation.php:93
+#: public/partials/turisbook-booking-system-resume-body-price.php:7
+msgid "Total without discount"
+msgstr "Total sin descuento"
+
+#: public/partials/turisbook-booking-system-confirmation.php:97
+#: public/partials/turisbook-booking-system-resume-body-price.php:11
+msgid "Promotion"
+msgstr "Promoción"
+
+#: public/partials/turisbook-booking-system-confirmation.php:102
+#: public/partials/turisbook-booking-system-resume-body-price.php:22
+msgid "Taxes"
+msgstr "Impuestos"
+
+#: public/partials/turisbook-booking-system-confirmation.php:105
+#: public/partials/turisbook-booking-system-resume-body-price.php:25
+msgid "VAT"
+msgstr "IVA"
+
+#: public/partials/turisbook-booking-system-confirmation.php:122
+#: public/partials/turisbook-booking-system-resume-body-price.php:40
+msgid "Cupon"
+msgstr "Cupón"
+
+#: public/partials/turisbook-booking-system-confirmation.php:131
+#: public/partials/turisbook-booking-system-resume-body-price.php:49
+msgid "Pay now"
+msgstr "Pagar ahora"
+
+#: public/partials/turisbook-booking-system-form.php:10
+msgid "Name"
+msgstr "Nombre"
+
+#: public/partials/turisbook-booking-system-form.php:16
+msgid "Surname"
+msgstr "Apellido"
+
+#: public/partials/turisbook-booking-system-form.php:24
+msgid "Email"
+msgstr "Email"
+
+#: public/partials/turisbook-booking-system-form.php:30
+msgid "Phone"
+msgstr "Teléfono"
+
+#: public/partials/turisbook-booking-system-form.php:38
+msgid "Address"
+msgstr "Dirección"
+
+#: public/partials/turisbook-booking-system-form.php:46
+msgid "Postal Code"
+msgstr "Código Postal"
+
+#: public/partials/turisbook-booking-system-form.php:72
+msgid "Payment"
+msgstr "Pago"
+
+#: public/partials/turisbook-booking-system-form.php:91
+msgid "Requests / Remarks"
+msgstr "Solicitudes / Observaciones"
+
+#: public/partials/turisbook-booking-system-form.php:100
+msgid "I have read and accept the Terms and Conditions of sale"
+msgstr "He leído y acepto los Términos y Condiciones de venta"
+
+#: public/partials/turisbook-booking-system-form.php:106
+msgid "Cancel and Return"
+msgstr "Cancelar y devolver"
+
+#: public/partials/turisbook-booking-system-form.php:120
+msgid "Sale Condition "
+msgstr "Condiciones de venta "
+
+#: public/partials/turisbook-booking-system-grid.php:24
+msgid "Bathroom"
+msgstr "Baño"
+
+#: public/partials/turisbook-booking-system-grid.php:25
+msgid "Bedroom"
+msgstr "Dormitorio"
+
+#: public/partials/turisbook-booking-system-grid.php:25
+msgid "Bedrooms"
+msgstr "Dormitorios"
+
+#: public/partials/turisbook-booking-system-grid.php:48
+msgid "More Info"
+msgstr "Más información"
+
+#: public/partials/turisbook-booking-system-ratecategories.php:9
+msgid "night"
+msgstr "noche"
+
+#: public/partials/turisbook-booking-system-ratecategories.php:59
+#: public/partials/turisbook-booking-system-resume-body.php:19
+msgid "Children"
+msgstr "Niños"
+
+#: public/partials/turisbook-booking-system-ratecategories.php:64
+#, php-format
+msgid "Up to %d years old"
+msgstr "Hasta %d años"
+
+#: public/partials/turisbook-booking-system-ratecategories.php:65
+msgid "Information"
+msgstr "Información"
+
+#: public/partials/turisbook-booking-system-ratecategories.php:97
+msgid "Accomodations"
+msgstr "Alojamientos"
+
+#: public/partials/turisbook-booking-system-ratecategories.php:117
+msgid "Minimum nights"
+msgstr "Noches mínimas"
+
+#: public/partials/turisbook-booking-system-resume-body.php:19
+msgid "Extrabed Adult"
+msgstr "Cama Supletoria Adulto"
+
+#: public/partials/turisbook-booking-system-resume.php:25
+msgid "Booking total"
+msgstr "Total Reserva"
+
+#: public/partials/turisbook-booking-system-resume.php:26
+msgid "taxes included"
+msgstr "impuestos incluidos"
+
+#: public/partials/turisbook-booking-system-resume.php:29
+msgid "Promotional Code"
+msgstr "Código promocional"
+
+#: public/partials/turisbook-booking-system-room-map.php:2
+msgid "See distance from..."
+msgstr "Ver distancia desde..."
+
+#: public/partials/turisbook-booking-system-room-map.php:78
+msgid "Returned place contains no geometry"
+msgstr "El lugar devuelto no contiene geometría"
+
+#: public/partials/turisbook-booking-system-seasons.php:6
+msgid "Rental Period"
+msgstr "Período de Alquiler"
+
+#: public/partials/turisbook-booking-system-seasons.php:7
+msgid "Price Per Week"
+msgstr "Precio por semana"
+
+#: public/partials/turisbook-calendar.php:5
+msgid "Sun"
+msgstr "Dom"
+
+#: public/partials/turisbook-calendar.php:5
+msgid "Mon"
+msgstr "Lun"
+
+#: public/partials/turisbook-calendar.php:5
+msgid "Tue"
+msgstr "Mar"
+
+#: public/partials/turisbook-calendar.php:5
+msgid "Wed"
+msgstr "Mie"
+
+#: public/partials/turisbook-calendar.php:5
+msgid "Thu"
+msgstr "Jue"
+
+#: public/partials/turisbook-calendar.php:5
+msgid "Fri"
+msgstr "Vie"
+
+#: public/partials/turisbook-calendar.php:5
+msgid "Sat"
+msgstr "Sab"
+
+#: public/shortcodes/turisbook-booking-system-search-bar-horizontal.php:5
+msgid "Book now"
+msgstr "Reservar ahora"
+
+#: public/shortcodes/turisbook-booking-system-search-bar-horizontal.php:7
+msgid "at the best price"
+msgstr "al mejor precio"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.neteuro.pt/turisbook"
+msgstr "https://www.neteuro.pt/turisbook"
+
+#. Description of the plugin/theme
+msgid "Connect your webiste with the Turisbook.com platform API"
+msgstr "Conecta tu sitio web con la API de la plataforma Turisbook.com"
+
+#. Author of the plugin/theme
+msgid "Turisbook"
+msgstr "Turisbook"
+
+#. Author URI of the plugin/theme
+msgid "https://www.neteuro.pt/"
+msgstr "https://www.neteuro.pt/"

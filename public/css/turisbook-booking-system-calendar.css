@@ -1,0 +1,150 @@
+.month-navigation  {
+  padding: 0px 0 0;
+  width: 100%;
+  /*background: #4a9eff;*/
+  text-align: center;
+}
+
+.month-navigation  ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.month-navigation  ul li {
+  color: #848484;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight:600;
+}
+
+.month-navigation  .prev {
+  display: inline-block;
+  padding: 5px 0;
+  margin-top:0;
+  width:49%;
+  cursor:pointer;
+  text-align:left;
+  float:left;
+}
+
+.month-navigation  .next {
+  display: inline-block;
+  padding: 5px 0;
+  margin-top:0;
+  cursor:pointer;
+  width:50%;
+  text-align:right;
+  float:right;
+}
+
+.monthName{
+  background-color:#4a9eff;
+  color:#fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-align:center;
+}
+
+.month{
+  padding: 5px;
+  background-color: #eee;
+  width: 49%!important;
+}
+.month .weekdays > div{
+  text-align:center;
+}
+
+.month:first-child{
+  margin-right: 1%!important;
+}
+
+
+.week .day-wrap{
+  padding: 1px;
+}
+.week .day-wrap .day{
+  padding: 5px 0;
+  border-radius: 5px;
+}
+
+
+.week .active .day{
+  /*background: #4a9eff;*/
+  color: #4a9eff !important;
+  /*border-radius:5px;*/
+}
+
+.week .available .day{
+  background: #94ff94;
+  color: #777 !important;
+  cursor:pointer;
+}
+.week .unavailable .day{
+  background: #d22222;
+  color: #fff !important;
+  cursor:default;
+}
+
+.week .highlight .day{
+  background-color:#b1d5ff;
+}
+
+
+.week .unavailable.unavailable-checkin .day{
+  background: linear-gradient(to bottom right, #94ff94 50%, #d22222 50%)!important;
+  color: #000!important;
+  cursor:pointer!important;
+}
+
+.week .available.highlight-checkin .day{
+  background: #4a9eff;
+  color: #fff !important;
+}
+.week .available.highlight-checkout .day{
+  background: #4a9eff;
+  color: #fff !important;
+}
+
+.week .available.selected-checkin .day{
+  background: #4a9eff;
+  color: #fff !important;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+
+
+
+.week .available.selected-checkout .day,
+.week .unavailable.selected-checkout .day
+{
+  background: #4a9eff !important;
+  color: #fff !important;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+
+.week .past .day{
+  text-decoration: line-through;
+  color:#bababa;
+}
+
+.week .day-between .day{
+  background-color:#8ec2ff!important;
+  border-radius: 0px!important;
+}
+@media only screen and (max-width: 768px) {
+
+  .month{
+    width: 100%!important;
+    margin-right: 0%!important;
+  }
+}
+

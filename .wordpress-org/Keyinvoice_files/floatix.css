@@ -1,0 +1,49 @@
+.mdl-textfield__label,
+.is-upgraded.is-dirty .mdl-textfield__label,
+.is-focused.is-dirty .mdl-textfield__label,
+.is-focused.is-upgraded .mdl-textfield__label,
+.box-top .mdl-textfield__label,
+.box-top .is-upgraded.is-dirty .mdl-textfield__label,
+.box-top .is-focused.is-dirty .mdl-textfield__label,
+.box-top .is-focused.is-upgraded .mdl-textfield__label,
+.pmd-textfield-floating-label label,
+.box-top .pmd-textfield-floating-label label {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    pointer-events: none;
+    position: absolute;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: left;
+    font-size: 12px;
+    top: 4px;
+    visibility: visible;
+    line-height: 1.5;
+    padding-right: 0;
+    -webkit-transition-duration: .2s;
+    transition-duration: .2s;
+    -webkit-transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+}
+.mdl-compressed .mdl-textfield__label
+,.mdl-compressed .is-upgraded.is-dirty .mdl-textfield__label
+,.mdl-compressed .is-focused.is-dirty .mdl-textfield__label
+,.mdl-compressed .is-focused.is-upgraded .mdl-textfield__label 
+,.pmd-compressed.pmd-textfield-floating-label label
+{
+ font-size: 12px;top:-2px;
+
+}
+
+.is-upgraded:not(.is-focused):not(.is-dirty) .mdl-textfield__label 
+,.pmd-textfield-floating-label.pmd-textfield-floating-label-empty label
+{
+    color: rgba(0,0,0,0.54);
+    top: 20px ;
+    font-size: 16px ;
+}
+.mdl-compressed.is-upgraded:not(.is-focused):not(.is-dirty) .mdl-textfield__label  ,
+.pmd-compressed.pmd-textfield-floating-label.pmd-textfield-floating-label-empty label
+{ top: 10px;}

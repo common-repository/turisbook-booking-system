@@ -1,0 +1,15 @@
+<?php
+include('turisbook-booking-system-calendar.php');
+include('turisbook-booking-system-prebook.php');
+include('turisbook-booking-system-search-bar-horizontal.php');
+include('turisbook-booking-system-slider.php');
+include('turisbook-booking-system-cart.php');
+include('turisbook-booking-system-booking-confirmation.php');
+include('turisbook-booking-system-seasons.php');
+include('turisbook-booking-system-grid.php');
+include('turisbook-booking-system-amenities.php');
+include('turisbook-booking-system-room-extra-info.php');
+include('turisbook-booking-system-map.php');
+include('turisbook-booking-system-cardex.php');
+include('turisbook-booking-system-hotel-logo.php');
+include('turisbook-booking-system-availabilities-search.php');
